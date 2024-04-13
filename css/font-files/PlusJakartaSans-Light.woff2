@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="en">
+   <head>
+
+    <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MTWQZBK');</script>
+      <!-- End Google Tag Manager -->
+
+
+       <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+      
+      <title>Hari Om Yoga Vidya School - 404</title>
+      <meta name="keywords" content="404 page">
+      <meta name="description" content="Hari Om Yoga Vidya School - this is the 404 page.">
+      <!-- canonical tag --> 
+      <link rel="canonical" href="https://www.hariomyogavidyaschool.com/404.php">
+      <!-- canonical tag end -->
+
+       
+      <link rel="preconnect" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/">
+      <link rel="preconnect" href="https://www.hariomyogavidyaschool.com/css/">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+      <link rel="stylesheet" href="css/font.min.css"> 
+      <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plusplusjakartasans@latest/plusjakartasans.css">
+      <link href="https://fonts.googleapis.com/css2?family=League+Script&display=swap" rel="stylesheet"> -->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+      <link rel="stylesheet" href="css/main.min.css">
+      <script>
+	window.onload = function() {
+		var d = new Date().getTime();
+		document.getElementById("tid").value = d;
+	};
+</script>
+
+
+
+
+   </head>
+
+   <body>
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTWQZBK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+      <header  id="main-menu">
+         <div class="top-bar">
+            <div class="top-bar-contact-wrap">
+               <a href="tel:+917906417697" class="top-bar-contact-link" title="Yoga Teacher Training In Rishikesh Contact Number"><img src="images/top-bar-phone-icon.png" alt="Contact Number" title="Contact Number" class="top-bar-contact-icon">+91 7906417697</a>
+               <a href="mailto:contact@hariomyogavidyaschool.com" class="top-bar-contact-link" title="Gmail Address"><img src="images/top-bar-mail-icon.png" alt="Yoga Teacher Training In Rishikesh Email" title="Yoga Teacher Training In Rishikesh  Gmail Id" class="top-bar-contact-icon">contact@hariomyogavidyaschool.com</a>
+            </div>
+            <div class="top-bar-social-wrap">
+               <a href="https://www.facebook.com/hariomyogavidyaschool" class="social-icon-link" target="_blank">
+               <img src="images/facebook.png" alt="HariOm Yoga Vidya School Facbook Account" title="HariOm Yoga Vidya School Facbook Account" class="social-icon">
+               </a>
+               <a href="https://www.instagram.com/hariomyogavidya/" class="social-icon-link" target="_blank">
+               <img src="images/instagram.png" alt="HariOm Yoga Vidya School instagram" title="HariOm Yoga Vidya School instagram" class="social-icon">
+               </a>
+               <a href="https://twitter.com/hoyogaschool" class="social-icon-link" target="_blank">
+               <img src="images/twitter.png" alt="HariOm Yoga Vidya School Rishikesh twitter" title="HariOm Yoga Vidya School Rishikesh Twitter" class="social-icon">
+               </a>
+               <a href="https://wa.me/917906417697" class="social-icon-link" target="_blank">
+               <img src="images/whatsapp.png" alt="HariOm Yoga Vidya School In Rishikesh whatsapp" title="HariOm Yoga Vidya School In Rishikesh Whatsapp" class="social-icon">
+               </a>
+               <a href="https://www.youtube.com/c/HariOmYogaVidyaSchool/videos" class="social-icon-link me-0" target="_blank">
+               <img src="images/youtube.png" alt="HariOm Yoga Vidya School In Rishikesh youtube" title="HariOm Yoga Vidya School In Rishikesh Youtube" class="social-icon">
+               </a>
+            </div>
+         </div>
+
+         <nav class="navbar navbar-expand-lg navbar-light" id="navigation">
+            <div class="container-fluid">
+               <a class="navbar-brand" href="https://www.hariomyogavidyaschool.com/" title="HariOm Yoga Vidya School logo">
+               <img src="images/hari-om-yoga-logo.webp" title="HariOm Yoga Vidya School logo" alt="HariOm Yoga Vidya School Logo" class="header-logo">
+               </a>
+               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"> <!-- <i class="fa-solid fa-bars"></i> --></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav">
+                     <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="https://www.hariomyogavidyaschool.com/" title="Yoga Teacher Training in Rishikesh - Homepage">Home</a>
+                     </li>
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdownMenuLinka1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        About
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLinka1">
+                           <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/about-us.php" title="About us page">Our School</a></li>
+                            <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/our-teacher.php" title="Checkout our yoga gurues details">Our Teachers</a></li><li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/yoga-ttc-in-rishikesh.php" title="Yoga ttc">Yoga TTC In Rishikesh</a></li>
+                           <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/food.php" title="Food and Accommodation in HariOm Yoga Vidya School in ">Food </a></li>
+                           <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/accommodation.php" title="Food and Accommodation"> Accommodation</a></li>
+                           <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/virtual-tour.php" title="Yoga School Virtual Tour">Virtual Tour</a></li>
+                           <li><a class="dropdown-item" href="https://www.hariomyogavidyaschool.com/faqs.php" title="Yoga TTC Question & Answer">FAQs</a></li>
+                           
+
+                        </ul>
+                     </li>
+                     <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdownMenuLink" role="button" title="Yoga TTC in Rishikesh" data-bs-toggle="dropdown" aria-expanded="false">
+                        Residential Yoga TTC
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="100-hour-yoga-teacher-training-in-rishikesh-india.php" title="100 Hour Yoga Teacher Training in Rishikesh">100 Hour Yoga Teacher Training in Rishikesh</a></li>
+                            <li><a class="dropdown-item" href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title="200 Hour Yoga Teacher Training in Rishikesh">200 Hour Yoga Teacher Training in Rishikesh</a></li>
+                            <li><a class="dropdown-item" href="300-hour-yoga-teacher-training-in-rishikesh-india.php" title="300 Hour Yoga Teacher Training in Rishikesh">300 Hour Yoga Teacher Training in Rishikesh</a></li>
+                            <li><a class="dropdown-item" href="500-hour-yoga-teacher-training-in-rishikesh-india.php" title="500 Hour Yoga Teacher Training in Rishikesh">500 Hour Yoga Teacher Training in Rishikesh</a></li>
+                        
+                        </ul>
+                     </li>
+                     <!-- <li class="nav-item">
+                        <a href="https://www.hariomyogavidyaschool.com/online/" class="nav-link" target="__blank" title="Online Yoga TTC">Online Yoga TTC</a>
+                     </li> -->
+                       <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdownMenuLink2" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Yoga Retreat in Rishikesh">
+                        Yoga Retreats
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
+                            <li><a class="dropdown-item" href="3-days-yoga-retreats-in-rishikesh.php" title="3 Days Yoga Retreat in Rishikesh">3 Days Yoga Retreat</a></li>
+                            <li><a class="dropdown-item" href="yoga-retreats-in-rishikesh.php" title="Yoga Retreat in Rishikesh">6 Days Yoga Retreat</a></li>
+                            <li><a class="dropdown-item" href="10-days-yoga-retreats-in-rishikesh.php" title="10 Days Yoga Retreat in Rishikesh">10 Days Yoga Retreat</a></li>
+                             <li><a class="dropdown-item" href="10-days-kundalini-yoga-retreats-in-rishikesh.php" title="10 Days Kundalini Yoga Retreat in Rishikesh">10 Days Kundalini Yoga Retreat</a></li>
+                          
+                        </ul>
+                     </li>
+                     <li class="nav-item">
+                        <a href="payment.php" class="nav-link" title="Yoga TTC Rishikesh Payment">Payment</a>
+                     </li>
+                     <li class="nav-item">
+                        <a href="https://www.hariomyogavidyaschool.com/blog" class="nav-link" title="Yoga Blog Rishikesh">Blog</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="contact-us.php" title="Yoga School In Rishikesh Contact">Contact Us</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="theme-button" href="enroll-now.php" title="Enroll Yoga School Rishikesh">Apply Now</a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+
+      </header>      <section id="page-banner" class="contact-us">
+        <div class="inner-overlay"> <img src="images/banner-divider.png" class="img-fluid"> </div>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <h1 class="banner-common-heading">404</h1>
+                  <nav aria-label="breadcrumb">
+                     <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Error 404</li>
+                     </ol>
+                  </nav>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+
+<div class="error section-gap text-center">
+  <div class="container">
+    <div class="eror-img">
+      <img src="images/404.png" class="img-fluid">
+    </div>
+    <a href="100-hour-yoga-teacher-training-in-rishikesh-india.php" class="theme-button me-4" title="100 Hour Yoga Teacher Training In Rishikesh">100 Hour Yoga TTC In Rishikesh</a>
+    <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" class="theme-button me-4" title="200 Hour Yoga Teacher Training In Rishikesh">200 Hour Yoga TTC In Rishikesh</a>
+    <a href="300-hour-yoga-teacher-training-in-rishikesh-india.php" class="theme-button me-4" title="300 Hour Yoga Teacher Training In Rishikesh">300 Hour Yoga TTC In Rishikesh</a>
+    <a href="yoga-retreats-in-rishikesh.php" class="theme-button me-4" title="Yoga Retreat In Rishikesh">Yoga Retreat In Rishikesh</a>
+  </div>
+</div>
+
+
+
+      <footer id="footer" class="bg-alt">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4">
+                  <div class="footer-wrap">
+                     <p class="footer-heading">About Us</p>
+                     <div class="underline-wrap "><img src="images/underline-icon.png" alt="Best Yoga School in Rishikesh" title="Best Yoga School in Rishikesh"  class="underline-icon lazy"></div>
+                     <p>Hari Om Yoga Vidya School provide one of the best <a href="https://www.hariomyogavidyaschool.com">Yoga Teacher Training in Rishikesh</a> for all yoga lovers. Hari Om Yoga Vidya is based in the renowned city called Rishikesh, famous by the name Yoga Capital of the World. Hari Om Yoga Vidya School is a <strong>Registered Yoga School in Rishikesh</strong> ( RYS ) with Yoga Alliance USA.</p>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="footer-wrap">
+                     <p class="footer-heading">Quick Links</p>
+                     <div class="underline-wrap"><img src="images/underline-icon.png" alt="Best Yoga TTC Rishikesh" title="Best Yoga TTC Rishikesh"  class="underline-icon lazy"></div>
+                     <ul class="theme-list">
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="/" class="footer-link" title="Yoga Teacher Training in Rishikesh">Home</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="about-us.php" class="footer-link" title="Best Yoga School in Rishikesh">About Us</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="our-teacher.php" class="footer-link" title="Yoga Alliance USA Certified Teachers">Our Teachers</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="privacy-policy.php" class="footer-link" title="Yoga School Privacy Policy">Privacy Policy</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="terms-and-conditions.php" class="footer-link" title="Yoga School Terms and Conditions">Terms &amp;  Conditions</a></li>
+                         <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="payment.php" class="footer-link" title="Rishikesh Yoga School Payment">Payment</a></li>
+                         <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="https://www.hariomyogavidyaschool.com/online/" class="footer-link" title="Onlinr Yoga TTC">Online Yoga TTC</a></li>
+                         <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="https://www.hariomyogavidyaschool.com/accommodation.php" class="footer-link" title="Yoga TTC In Rishikesh"> Food & Accommodation</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="footer-wrap">
+                     <p class="footer-heading">Yoga TTC &amp Retreat Link</p>
+                     <div class="underline-wrap"><img src="images/underline-icon.png" alt="img"  title="img" class="underline-icon lazy"></div>
+                     <ul class="theme-list">
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="100-hour-yoga-teacher-training-in-rishikesh-india.php" class="footer-link" title="100 Hour Yoga Teacher Training in Rishikesh" >100 Hour Yoga TTC in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" class="footer-link" title="200 Hour Yoga Teacher Training in Rishikesh" >200 Hour Yoga TTC  in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="300-hour-yoga-teacher-training-in-rishikesh-india.php" class="footer-link" title="300 Hour Yoga Teacher Training in Rishikesh" >300 Hour Yoga TTC in Rishikesh</a></li>
+
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="500-hour-yoga-teacher-training-in-rishikesh-india.php" class="footer-link" title="500 Hour Yoga Teacher Training in Rishikesh" >500 Hour Yoga TTC in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="3-days-yoga-retreats-in-rishikesh.php" class="footer-link" title="3 Days Yoga Retreat in Rishikesh" >3 Days Yoga Retreat in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="yoga-retreats-in-rishikesh.php" class="footer-link" title="Yoga Retreat in Rishikesh" >6 Days Yoga Retreat in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="10-days-yoga-retreats-in-rishikesh.php" class="footer-link" title="10 Days Yoga Retreat in Rishikesh" >10 Days Yoga Retreat in Rishikesh</a></li>
+                        <li><span class="list-icon lazy" data-bg="images/list-icon.png"></span><a href="10-days-kundalini-yoga-retreats-in-rishikesh.php" class="footer-link" title="10 Days Kundalini Yoga Retreat in Rishikesh" >10 Days Kundalini Yoga Retreat in Rishikesh</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-12">
+                  <div class="contact-box-wrap">
+                     <ul class="contact-list">
+                        <li class="footer-social">
+                            <a href="https://www.facebook.com/hariomyogavidyaschool" class="social-icon-link" target="_blank" title="Hari Om Yoga Vidya School Facebook" >
+                              <i class="fa-brands fa-facebook-f"></i>
+                              </a>
+                              <a href="https://www.instagram.com/hariomyogavidya/" class="social-icon-link" target="_blank" title="Hari Om Yoga Vidya School Instagram" >
+                              <i class="fa-brands fa-instagram"></i>
+                              </a>
+                              <a href="https://twitter.com/hoyogaschool" class="social-icon-link" target="_blank" title="Hari Om Yoga Vidya School Twitter" >
+                              <i class="fa-brands fa-twitter"></i>
+                              </a>
+                              <a href="https://www.youtube.com/c/HariOmYogaVidyaSchool/videos" class="social-icon-link me-0" target="_blank" title="Hari Om Yoga Vidya School Youtube" >
+                              <i class="fa-brands fa-youtube"></i>
+                              </a>
+                              <a href="https://www.linkedin.com/uas/login-submit" class="social-icon-link me-0" target="_blank" title="Hari Om Yoga Vidya School Linkedin">
+                              <i class="fa-brands fa-linkedin-in"></i>
+                              </a>
+                            
+                        </li>
+                        <li><img src="images/location-icon.png" alt="Yoga School Rishikesh Location" title="Yoga School Rishikesh Location"  class="contact-footer-icon lazy"><a href="https://goo.gl/maps/6JEzNLwjeFDkrQnU6" class="footer-link" title="Yoga School Address Rishikesh">Hariom Yoga Vidya School, At- Aviral Ganga, Laxman Jhula, Paidal Marg, Tapovan, Rishikesh, Uttarakhand 249192</a></li>
+                        <li><img src="images/footer-phone-icon.png" alt="Yoga School Contact Number" title="Yoga School Contact Number"  class="contact-footer-icon lazy"><a href="tel:+917906417697" class="footer-link" title="Yoga School Contact Number">+91 7906417697</a></li>
+                        <li><img src="images/footer-mail-icon.png" alt="Rishikesh Yoga School Email" title="Yoga School Email"  class="contact-footer-icon lazy"><a href="mailto:contact@hariomyogavidyaschool.com" class="footer-link" title="Rishikesh Yoga School Email">contact@hariomyogavidyaschool.com</a></li>
+                     </ul>
+                  </div>
+
+
+                 
+                    
+               </div>
+            </div>
+         </div>
+
+       <!--   <div class="quick-links">
+          <h6 class="footer-heading text-center">Quick Links</h6>
+                      <div class="container-fluid">
+                        <a href="about-us.php" title="Hari Om Yoga Vidya School rishikesh"> Hari Om Yoga Vidya School </a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title="200 hour yoga teacher training in rishikesh"> 200 Hour Yoga Teacher Training In Rishikesh </a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title="200 hours yoga ttc in rishikesh"> 200 Hour Yoga TTC In Rishikesh</a>
+                        <a href="300-hour-yoga-teacher-training-in-rishikesh-india.php" title="300 hour yoga teacher training in rishikesh"> 300 Hour Yoga Teacher Training In Rishikesh</a>
+                        <a href="300-hour-yoga-teacher-training-in-rishikesh-india.php" title="300 hour yoga ttc in rishikesh"> 300 Hour Yoga TTC In Rishikesh</a>
+                        <a href="https://www.hariomyogavidyaschool.com/" title="yoga in rishikesh"> Yoga In Rishikesh</a>
+                        <a href="https://www.hariomyogavidyaschool.com/" title="best yoga school in rishikesh"> Best Yoga School In Rishikesh</a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title="yoga course in rishikesh"> Yoga Course in Rishikesh</a>
+                        <a href="yoga-teacher-training-in-rishikesh.php" title="yoga Teacher Training in rishikesh"> Yoga Teacher Training In Rishikesh</a>
+                        <a href="yoga-ttc-in-rishikesh.php" title="yoga teacher training in rishikesh">Yoga Teacher Training in Rishikesh</a>
+                        <a href="about-us.php" title="rishikesh yoga teacher training"> Rishikesh Yoga Teacher Training</a>
+                        <a href="about-us.php" title=" yoga school in rishikesh"> Yoga School In Rishikesh</a>
+                        <a href="yoga-ttc-in-rishikesh.php" title=" Best Yoga Teacher Training in Rishikesh">Best Yoga Teacher Training In Rishikesh</a>
+                        <a href="https://www.hariomyogavidyaschool.com/" title="yoga ttc in rishikesh"> Yoga TTC In Rishikesh</a>
+                        <a href="yoga-retreats-in-rishikesh.php" title="Yoga Retreat in Rishikesh"> Yoga Retreat in Rishikesh</a>
+                        <a href="100-hour-yoga-teacher-training-in-rishikesh-india.php" title="100 Hour Yoga Teacher Training In Rishikesh">100 Hour Yoga Teacher Training In Rishikesh</a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title="200 Hour Ashtanga Yoga Teacher Training In Rishikesh">200 Hour Ashtanga Yoga Teacher Training In Rishikesh</a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" 200 Hour Hatha Yoga Teacher Training In Rishikesh "> 200 Hour Hatha Yoga Teacher Training In Rishikesh </a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" 200 Hour Vinyasa Yoga Teacher Training In Rishikesh "> 200 Hour Vinyasa Yoga Teacher Training In Rishikesh </a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" 200 Hour Yoga TTC In Rishikesh "> 200 Hour Yoga TTC In Rishikesh </a>
+                        <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" 200 Hour meditation TTC In Rishikesh "> 200 Hour Meditation Teacher Training In Rishikesh </a>
+                         <a href="yoga-ttc-in-rishikesh.php" title=" Yoga TTC In Rishikesh "> Yoga TTC In Rishikesh </a>
+                         <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" 200 Hour Yoga Teacher Training In Rishikesh "> Yoga Alliance USA Certified 200 Hour Yoga Teacher Training Course India </a>
+                         <a href="200-hour-yoga-teacher-training-in-rishikesh-india.php" title=" Yoga Alliance USA Certified 200 Hour Yoga Course "> Yoga Alliance USA Certified 200 Hour Yoga Course </a>
+                          <a href="200-hour-yoga-teacher-training-in-rishikesh.php" title=" 200 Hour Yoga Teacher Training In Rishikesh "> Best 200 Hour Yoga Teacher Training In Rishikesh</a>
+                      </div>
+                    </div> -->
+
+
+
+                  <p class="copyright-text text-center justify-content-between">&copy; 2023-2024,&nbsp;<strong>Hari Om Yoga Vidya School</strong>&nbsp;All Rights Reserved.</p>
+
+
+
+
+<div id="google_translate_element"></div>
+
+
+      </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <a href="images/200-course.pdf" class="floating-enroll" target="_blank" title="200 Hour Yoga Teacher Training Course in Rishikesh">
+         <img src="images/enroll-icon.png" alt="Rishikesh Yoga School Enrolment" title="Rishikesh Yoga School Enrollment"  class="floating-icon">
+         <span class="floating-text">Course Manual</span>
+      </a>
+      <a href="https://wa.me/917906417697" class="whatsapp" target="_blank" title="Contact Rishikesh Yoga School"> <img src="images/whatsapp-chat.png" alt="Contact Rishikesh Yoga School" title="Contact Rishikesh Yoga School"  class="img-fluid lazy"> </a>
+
+
+
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+      
+
+      <!-- schema tag start -->
+
+
+
+
+
+      <!-- schema tag end -->
+
+      <!--Start of Tawk.to Script-->
+<script >
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/625d5c057b967b11798b3d8a/1g0uautms';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+        <!-- Yandex.Metrika counter -->
+        <script  >
+      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+      ym(89689722, "init", {
+           clickmap:true,
+           trackLinks:true,
+           accurateTrackBounce:true,
+           webvisor:true,
+           ecommerce:"dataLayer"
+      });
+   </script>
+   <noscript><img src="https://mc.yandex.ru/watch/89689722" style="position:absolute; left:-9999px;" alt="images" title="Hari Om Yog Vidya School" /></noscript>
+   <!-- /Yandex.Metrika counter -->
+<script>
+document.getElementById("curl").value = window.location.href;
+</script>
+      
+   <script src="https://kit.fontawesome.com/ca07a9359a.js" crossorigin="anonymous"></script>	
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha512-UdIMMlVx0HEynClOIFSyOrPggomfhBKJE28LKl8yR3ghkgugPnG6iLfRfHwushZl1MOPSY6TsuBDGPK2X4zYKg==" crossorigin="anonymous" type="cb367e5a83279dff9a131858-text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.7.0/dist/lazyload.min.js"></script>
+      
+<script src="js/main.min.js"></script>
+      <!--Start of Tawk.to Script-->
+<!--End of Tawk.to Script-->
+ <script>setTimeout(function(){var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();(function(){var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];s1.async=true;s1.src='https://embed.tawk.to/625d5c057b967b11798b3d8a/1g0uautms';s1.charset='UTF-8';s1.setAttribute('crossorigin','*');s0.parentNode.insertBefore(s1,s0);})();},9000);</script> 
+ 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H0427ETNDR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H0427ETNDR');
+</script>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2492288140807597');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2492288140807597&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->      <script src="https://kit.fontawesome.com/ca07a9359a.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+ --><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js" integrity="sha512-37T7leoNS06R80c8Ulq7cdCDU5MNQBwlYoy1TX/WUsLFC2eYNqtKlV0QjH7r8JpG/S0GUMZwebnVFLPd6SU5yg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.7.0/dist/lazyload.min.js"></script>
+<script>$.validator.addMethod(
+  "regex",
+  function(value, element, regexp) {
+      var re = new RegExp(regexp);
+      return this.optional(element) || re.test(value);
+  },
+  "Please check your input."
+);</script>
+<script src="js/main.min.js"></script>
+
+
+   </body>
+</html>
