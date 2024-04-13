@@ -852,8 +852,13 @@ header #navigation .dropdown-item:hover {
     margin-bottom: 0
 }
 
+#ho-banner .carouselExampleFade{
+    background-size:0px;
+}
+
 #ho-banner .carousel-control-prev-icon {
     background-color: #0785E1;
+    background-size:cover;
     border-radius: 50%;
     padding: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, .6);

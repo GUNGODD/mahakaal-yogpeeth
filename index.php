@@ -23,27 +23,38 @@
 
   <?php include ('header.php'); ?>   
   <section id="ho-banner">
+  <style>
+  .image-container {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+  }
+  .ho-banner-image {
+    display: none; /* Hide the image since we're using it as background */
+  }
+</style>
 
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="image-container">
-            <img src="images/banner/banner1.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carousel.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
 
-         
+          
         </div>
         <div class="carousel-item ">
           <div class="image-container">
-            <img src="images/banner/banner2.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carousel1.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
           
         </div>
         <div class="carousel-item ">
           <div class="image-container">
-            <img src="images/banner/banner3.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carousel2.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
           
@@ -61,7 +72,7 @@
   </section>
   <section id="about-promo" class="section-gap ">
     <div class="container">
-      <h1 class="common-heading-bottom text-center"> Welcome to Mahakaal Yogpeeth</h1>
+      <h1 class="common-heading-bottom text-center"> Welcome to Mhakaal Yogpeeth</h1>
       <p class="text-center sub-heading">Certified Yoga School in Rishikesh India</p>
       <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon" class="underline-icon lazy"></div>
 
