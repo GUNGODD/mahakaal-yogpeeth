@@ -72,7 +72,7 @@
   </section>
   <section id="about-promo" class="section-gap ">
     <div class="container">
-      <h1 class="common-heading-bottom text-center"> Welcome to Mhakaal Yogpeeth</h1>
+      <h1 class="common-heading-bottom text-center"> Welcome to Mahakaal Yogpeeth</h1>
       <p class="text-center sub-heading">Certified Yoga School in Rishikesh India</p>
       <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon" class="underline-icon lazy"></div>
 
