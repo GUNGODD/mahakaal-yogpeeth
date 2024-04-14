@@ -39,7 +39,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="image-container">
-            <img src="images/banner/carousel.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carou1.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
 
@@ -47,14 +47,14 @@
         </div>
         <div class="carousel-item ">
           <div class="image-container">
-            <img src="images/banner/carousel1.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carou2.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
           
         </div>
         <div class="carousel-item ">
           <div class="image-container">
-            <img src="images/banner/carousel2.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <img src="images/banner/carousel3.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
             <div class=""></div>
           </div>
           

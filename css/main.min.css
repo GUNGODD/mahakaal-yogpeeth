@@ -738,7 +738,7 @@ header #navigation .dropdown-item:hover {
     overflow: hidden;
 }
 #ho-banner .ho-banner-image {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
 
@@ -852,9 +852,7 @@ header #navigation .dropdown-item:hover {
     margin-bottom: 0
 }
 
-#ho-banner .carouselExampleFade{
-    background-size:0px;
-}
+
 
 #ho-banner .carousel-control-prev-icon {
     background-color: #0785E1;
@@ -1192,7 +1190,7 @@ header #navigation .dropdown-item:hover {
 }
 
 #retreat {
-    background: url(../images/new/19.jpg) no-repeat;
+    background: url(../images/banner/carou1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     margin-bottom: 50px;
@@ -2569,8 +2567,8 @@ height: 200px;}
 }
 
 #page-banner {
-    background-image: -webkit-gradient(linear, left top, right top, from(#0785E1), to(#00000063)), url(../images/new/19.jpg);
-    background-image: linear-gradient(to right, #0785E1, #00000063), url(../images/new/19.jpg);
+    background-image: -webkit-gradient(linear, left top, right top, from(#0785E1), to(#00000063)), url(../images/banner/carou1.jpg);
+    background-image: linear-gradient(to right, #0785E1, #00000063), url(../images/banner/carou1.jpg);
     background-position: center;
 }
 
@@ -2582,8 +2580,8 @@ height: 200px;}
 } */
 
 #page-banner.teacher-inner {
-    background-image: -webkit-gradient(linear, left top, right top, from(#0785E1), to(#00000063)), url(../images/new/11.jpg);
-    background-image: linear-gradient(to right, #0785E1, #00000063), url(../images/new/11.jpg);
+    background-image: -webkit-gradient(linear, left top, right top, from(#0785E1), to(#00000063)), url(../images/banner/carou1.jpg);
+    background-image: linear-gradient(to right, #0785E1, #00000063), url(../images/banner/carou1.jpg);
     background-position: center;
 }
 .inner-banner{position: relative;}
