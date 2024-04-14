@@ -59,6 +59,13 @@
           </div>
           
         </div>
+        <div class="carousel-item ">
+          <div class="image-container">
+            <img src="images/banner/carou3.jpg" class="d-block w-100 ho-banner-image" alt="Best Yoga school in Rishikesh" title="Best Yoga school in Rishikesh">
+            <div class=""></div>
+          </div>
+          
+        </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
