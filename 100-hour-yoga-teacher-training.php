@@ -224,85 +224,85 @@
 
     <div class="course-date-box">
      <span class="course-start-date">January</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">February</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">March</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">April</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">May</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">June</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">July</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">August</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">September</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">October</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">November</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">December</span>
-     <span class="course-start-date">$499</span>
-     <span class="course-available">$599</span>
+     <span class="course-start-date">$399</span>
+     <span class="course-available">$499</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
