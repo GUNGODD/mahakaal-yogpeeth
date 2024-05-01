@@ -368,7 +368,7 @@
  <div class="container">
   <div class="row">
    <div class="col-lg-12">
-    <h4 class="common-heading-bottom text-center mb-4">UPCOMING DATES AND PRICES – 200 HOUR YOGA TTC INDIA</h4>
+    <h4 class="common-heading-bottom text-center mb-4">UPCOMING DATES AND PRICES FOR INDIANS– 200 HOUR YOGA TTC INDIA</h4>
     <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon"  class="underline-icon lazy"></div>
     <p>Our classes offer gentle modifications for postures that require more flexibility, strength and skill.</p>
     <div class="course-date-wrap">
@@ -381,120 +381,120 @@
 
     <div class="course-date-box">
      <span class="course-start-date">1st Aug to 24th Aug, 2023</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Sep to 24th Sep, 2023</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Oct to 24th Oct, 2023</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Nov to 24th Nov, 2023</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Dec to 24th Dec, 2023</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Jan to 24th Jan, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Feb to 24th Feb, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Mar to 24th Mar, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Apr to 24th Apr, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st May to 24th May, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st June to 24th June, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st July to 24th July, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Aug to 24th Aug, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Sep to 24th Sep, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Oct to 24th Oct, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Nov to 24th Nov, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
    <div class="course-date-box">
      <span class="course-start-date">1st Dec to 24th Dec, 2024</span>
-     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
-     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span>₹30000</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>₹40000</span>
      <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
    </div>
 
