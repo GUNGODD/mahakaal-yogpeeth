@@ -199,7 +199,7 @@
      <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon"  class="underline-icon lazy"></div>
    </div>
    <div class="col-lg-12">
-    <p>Our curriculum includes Asana (deep understanding of the alignment in all postures), Pranayama (several breath techniques), Yoga Philosophy (concentrating on the eight limbs of yoga), Meditation (tools to create your meditation practice), Anatomy (applied anatomy for the postures), Ayurveda studies (the sister science of yoga), Mantra (the study of sound), Smart Sequencing (the understanding of how to create a safe, exciting flow with modifications), and Subtle Body (basic knowledge of the Chakra System.</p>
+    <p>curriculum includes Asana (deep understanding of the alignment in all postures), Pranayama (several breath techniques), Yoga Philosophy (concentrating on the eight limbs of yoga), Meditation (tools to create your meditation practice), Anatomy (applied anatomy for the postures), Ayurveda studies (the sister science of yoga), Mantra (the study of sound), Smart Sequencing (the understanding of how to create a safe, exciting flow with modifications), and Subtle Body (basic knowledge of the Chakra System.</p>
     <p class="course-schedule"><span class="schedule-time">Techniques, Training, and Practice: </span><span class="schedule-task">The goal is to have a level one training that is Clear, Concise, and Practical to empower the students to teach a level one class that is safe, conscious, and interesting. Each student will understand the components of each asana (posture) to empower them to create intelligent class sequencing.</span></p>
     <p class="course-schedule"><span class="schedule-time">Hatha Yoga: </span><span class="schedule-task">In the 200-hour yoga teacher training, you'll dive into Hatha Yoga – perfect for beginners. This course covers all the physical aspects of yoga in a detailed way. Hatha Yoga, made up of 'Ha' meaning 'Sun' and 'Tha' meaning 'Moon', unites these opposite forces. It's all about strengthening your body inside and out.</span></p>
     <p class="course-schedule"><span class="schedule-time">Anatomy: </span><span class="schedule-task">Studying yoga anatomy is like exploring the science of the body – understanding organs, bones, muscles, joints, and tissues. It's crucial for yoga practitioners as it adds a holistic approach to your practice. Beyond the physical structure, you'll delve into body processes. These aspects go hand in hand. To grasp how the body moves, it's important to comprehend both.</span></p>
@@ -216,6 +216,150 @@
   <p><b>Note-</b> Make sure before 3rd of every month  (means 1st and 2nd ) there will be no activities in the school. So 2nd students will arrive at school and will take enough rest then next day 3rd of morning 9.00am all the students have breakfast.. then the program will begin with flower decoration.</p> -->
 </div>
 
+</div>
+</div>
+</section>
+
+<section id="ho-course-dates" class="section-gap bg-alt">
+ <div class="container">
+  <div class="row">
+   <div class="col-lg-12">
+    <h4 class="common-heading-bottom text-center mb-4">UPCOMING DATES AND PRICES – 200 HOUR YOGA TTC INDIA</h4>
+    <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon"  class="underline-icon lazy"></div>
+    <p>Our classes offer gentle modifications for postures that require more flexibility, strength and skill.</p>
+    <div class="course-date-wrap">
+     <div class="course-date-box head">
+      <span class="course-start-date">DATE</span>
+      <span class="course-start-date">PRICE: SHARED ACCOM.</span>
+      <span class="course-available">PRICE: PRIVATE ACCOM.</span>
+      <span class="course-price">AVAILABILITY</span>
+    </div>
+
+    <div class="course-date-box">
+     <span class="course-start-date">1st Aug to 24th Aug, 2023</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Sep to 24th Sep, 2023</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Oct to 24th Oct, 2023</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Nov to 24th Nov, 2023</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Dec to 24th Dec, 2023</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Jan to 24th Jan, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Feb to 24th Feb, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Mar to 24th Mar, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Apr to 24th Apr, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st May to 24th May, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st June to 24th June, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st July to 24th July, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Aug to 24th Aug, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Sep to 24th Sep, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Oct to 24th Oct, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Nov to 24th Nov, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">1st Dec to 24th Dec, 2024</span>
+     <span class="course-start-date"><span style="text-decoration: line-through;"> $1099</span> $599</span>
+     <span class="course-available"><span style="text-decoration: line-through;"> $1299</span>$799</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+ </div>
+ <p class="mt-5 mb-4"><strong>200-hour training Prices:</strong> Includes all course materials, certificates, workshops, lectures, hikes, and facility use while training.
+ </p>
+ <p class="mb-4  text-center"><a href="enroll-now.php" class="theme-button">Register Today</a></p>
+ 
+</div>
 </div>
 </div>
 </section>
