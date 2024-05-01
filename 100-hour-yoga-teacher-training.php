@@ -313,6 +313,116 @@
 </div>
 </div>
 </section>
+
+
+<section id="ho-course-dates" class="section-gap bg-alt">
+ <div class="container">
+  <div class="row">
+   <div class="col-lg-12">
+    <h4 class="common-heading-bottom text-center mb-4">UPCOMING DATES AND PRICES FOR INDIANS– 100 HOUR YOGA TTC INDIA</h4>
+    <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon"  class="underline-icon lazy"></div>
+    <p>Our classes offer gentle modifications for postures that require more flexibility, strength and skill.</p>
+    <div class="course-date-wrap">
+     <div class="course-date-box head">
+      <span class="course-start-date">DATE</span>
+      <span class="course-start-date">PRICE: SHARED ACCOM.</span>
+      <span class="course-available">PRICE: PRIVATE ACCOM.</span>
+      <span class="course-price">AVAILABILITY</span>
+    </div>
+
+    <div class="course-date-box">
+     <span class="course-start-date">January</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">February</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">March</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">April</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">May</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">June</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">July</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">August</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">September</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">October</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">November</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+   <div class="course-date-box">
+     <span class="course-start-date">December</span>
+     <span class="course-start-date">₹15000</span>
+     <span class="course-available">₹25000</span>
+     <span class="course-price"><strong class="text-success">AVAILABLE</strong></span>
+   </div>
+
+ </div>
+ <p class="mb-4 mt-5 text-center"><a href="enroll-now.php" class="theme-button">Register Today</a></p>
+ 
+</div>
+</div>
+</div>
+</section>
+
+
 <section id="ho-course-syllabus" class="section-gap">
  <div class="container">
   <div class="row">
