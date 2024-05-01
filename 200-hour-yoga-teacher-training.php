@@ -370,7 +370,7 @@
    <div class="col-lg-12">
     <h4 class="common-heading-bottom text-center mb-4">UPCOMING DATES AND PRICES FOR INDIANS– 200 HOUR YOGA TTC INDIA</h4>
     <div class="underline-wrap"><img src="images/new/heading.png" alt="underline icon"  class="underline-icon lazy"></div>
-    <p>Our classes offer gentle modifications for postures that require more flexibility, strength and skill.</p>
+    <p>Note the Fees mentioned below is only for Indians.</p>
     <div class="course-date-wrap">
      <div class="course-date-box head">
       <span class="course-start-date">DATE</span>
